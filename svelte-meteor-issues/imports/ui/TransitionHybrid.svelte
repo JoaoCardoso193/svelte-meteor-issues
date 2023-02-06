@@ -12,7 +12,7 @@
 </script>
 
 {#if show}
-  <div in:fade class={visible ? "visible" : "hidden"}>
+  <div in:fade class:hidden={!visible}>
     <OuterHybrid bind:show bind:visible />
   </div>
 {:else}
