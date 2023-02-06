@@ -13,7 +13,8 @@
     "svelte": "^3.54.0"
   },
   "devDependencies": {
-    "svelte-preprocess": "^5.0.0"
+    "svelte-preprocess": "^5.0.0",
+    "tinro": "^0.6.12"
   },
   "meteor": {
     "mainModule": {
