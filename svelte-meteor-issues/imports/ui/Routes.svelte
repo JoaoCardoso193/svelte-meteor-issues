@@ -3,6 +3,7 @@
   import Home from "./Home.svelte";
   import TransitionTest from "./TransitionTest.svelte";
   import TransitionAlternative from "./TransitionAlternative.svelte";
+  import TransitionHybrid from "./TransitionHybrid.svelte";
 </script>
 
 <Route path="/">
@@ -15,4 +16,8 @@
 
 <Route path="transition-alternative">
   <TransitionAlternative />
+</Route>
+
+<Route path="transition-hybrid">
+  <TransitionHybrid />
 </Route>

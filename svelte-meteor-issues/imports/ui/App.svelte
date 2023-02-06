@@ -7,6 +7,7 @@
     <li><a href="/">Home</a></li>
     <li><a href="transition-test">Svelte Transitions Test</a></li>
     <li><a href="transition-alternative">CSS Transitions Alternative</a></li>
+    <li><a href="transition-hybrid">Transitions Hybrid</a></li>
   </ul>
 </nav>
 <Routes />
