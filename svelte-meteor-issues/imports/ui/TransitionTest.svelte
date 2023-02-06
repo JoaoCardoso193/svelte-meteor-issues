@@ -11,6 +11,7 @@
 </script>
 
 <div>
+  <div transition:fade>Test</div>
   {#each numbers as number}
     {#if showNumbers[number]}
       <div transition:fade>

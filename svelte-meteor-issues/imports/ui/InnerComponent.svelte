@@ -22,6 +22,6 @@
     border-radius: 5px;
     text-align: center;
     color: white;
-    font-weight: 800;
+    font-weight: 600;
   }
 </style>
